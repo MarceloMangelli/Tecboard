@@ -11,7 +11,7 @@ TecBoard is a responsive landing page developed as part of a course by [Alura](h
 Here is a look at the project:
 
 <!-- Replace the URL below with your actual screenshot path or URL -->
-![TecBoard Preview](https://raw.githubusercontent.com/MarceloMangelli/tecboard/main/img/img/captura-de-tela.png)
+![TecBoard Preview](https://raw.githubusercontent.com/MarceloMangelli/tecboard/main/img/captura-de-tela.png)
 
 ## ✨ Features
 

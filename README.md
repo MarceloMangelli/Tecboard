@@ -1,61 +1,57 @@
- # 🚀 TecBoard
+# 🚀 TecBoard
 
 ![Tecboard Logo](img/logo-tecboard-branco.png)
 
 ## 📝 Project Description
 
-TecBoard is a responsive landing page developed as part of a course by [Alura](https://www.alura.com.br/), focusing on programming best practices and responsive design. The main goal of this page is to present a real-time monitoring service with intelligent alerts for applications, ensuring that users are always aware of their system's status. 📊
+**TecBoard** is a responsive landing page developed as a study project during a course by [Alura](https://www.alura.com.br/). The project focuses on applying **web programming best practices** and mastering **responsive design** techniques. 
+
+> [!IMPORTANT]
+> This is a **fictional project** created for educational purposes. The services, monitoring features, and alerts mentioned on the page are part of the UI/UX study and do not represent a real application.
+
+The main goal was to build a modern, professional-looking interface that adapts perfectly to any device, simulating a real-world SaaS landing page. 📊
 
 ## 📸 Project Preview
 
 Here is a look at the project:
 
 <!-- Replace the URL below with your actual screenshot path or URL -->
-![TecBoard Preview](https://raw.githubusercontent.com/MarceloMangelli/tecboard/main/img/captura-de-tela.png)
+![TecBoard Preview](img/captura-de-tela.png)
 
-## ✨ Features
+## ✨ Learning Objectives & Features
 
-*   **📱 Responsive Design:** The landing page was carefully designed to adapt to different screen sizes, providing a consistent user experience across desktop, tablet, and smartphone devices.
-*   **💡 Clear Information:** Presents the benefits of the monitoring service concisely, highlighting the importance of real-time monitoring.
-*   **🎯 Call to Action (CTA):** A clear "Test demo version" button encourages user interaction.
+*   **📱 Responsive Design:** Implementation of mobile-first concepts and `@media queries` to ensure the site looks great on desktops, tablets, and smartphones.
+*   **🎨 Modern UI/UX:** Use of a dark theme, custom typography, and balanced spacing to create a professional landing page feel.
+*   **🛠️ Clean Code:** Applying semantic HTML5 and organized CSS3 to follow industry standards.
+*   **🎯 Interactive Elements:** Styled buttons and hover effects to simulate user engagement.
 
 ## 🛠️ Technologies Used
 
-The TecBoard project was developed using the following technologies:
-
-*   **HTML5:** For page content structuring.
-*   **CSS3:** For styling and implementing responsive design, using `@media queries` for different breakpoints.
-*   **Google Fonts:** Using 'Unbounded' and 'Poppins' fonts for modern and readable typography.
+*   **HTML5:** Semantic structure for better SEO and accessibility.
+*   **CSS3:** Advanced styling, Flexbox, and Responsive Design.
+*   **Google Fonts:** Integration of 'Unbounded' and 'Poppins' for a premium look.
 
 ## 🚀 How to Run the Project Locally
 
-To have a local copy of the project running on your machine, follow the steps below:
-
 1.  **Clone the repository:**
-
     ```bash
     git clone https://github.com/MarceloMangelli/tecboard.git
     ```
-
-2.  **Navigate to the project directory:**
-
+2.  **Navigate to the directory:**
     ```bash
     cd tecboard
     ```
+3.  **Open the site:**
+    Open `index.html` in your favorite browser.
 
-3.  **Open the `index.html` file in your browser:**
+## 🌐 Live Demo
 
-    Simply open the `index.html` file located in the project root in your preferred web browser.
-
-## 🌐 Deploy
-
-The project is currently deployed and accessible via the following link:
-
+You can check out the live version here:  
 [https://tecboard-mu-two.vercel.app/](https://tecboard-mu-two.vercel.app/)
 
 ## 👤 Author
 
-**Marcelo Mangelli** - High school student and web programming enthusiast. 👨‍💻
+**Marcelo Mangelli** - High school student and web development student. 👨‍💻
 
 ## 🎓 Credits
 
